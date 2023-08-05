@@ -46,7 +46,7 @@ public class Main {
                 min = arr[i];
             }
         }
-        System.out.println("Минимальная сумма трат за день составила " + min + " рублей");
+        System.out.println("Минимальная сумма трат за день составила аж" + min + " рублей");
     }
 
     private static void task3() {

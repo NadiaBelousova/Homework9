@@ -58,7 +58,7 @@ public class Main {
             sum += arr[i];
         }
         double spendingForMonth = sum / arr.length;
-        System.out.println("Средняя сумма трат за месяц составила аж" + spendingForMonth + "  рублей");
+        System.out.println("Средняя сумма трат за месяц составила " + spendingForMonth + "  рублей");
     }
 
     private static void task4() {

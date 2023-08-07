@@ -47,11 +47,8 @@ public class Main {
                 }
 
 
-
-
-
     private static void task3() {
-        System.out.println("Задача 3");
+        System.out.println("Задача номер 3");
         int[] arr = generateRandomArray();
         int sum = 0;
         for (int i = 0; i < arr.length; i++) {
